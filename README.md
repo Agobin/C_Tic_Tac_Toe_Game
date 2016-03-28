@@ -13,4 +13,4 @@ This is a project to create a tic tac toe game in C using a gui library built us
  Note: This step is obviously done in the terminal
 
 # Running the program
-To run the program type ./ttt in the terminal
+To run the program type ./test in the terminal
