@@ -1,4 +1,4 @@
-# Tic Tac Toe game in Chapel
+# Tic Tac Toe game in C
 
 # Description
 This is a project to create a tic tac toe game in C using a gui library built using the third party open source library gtk.
