@@ -8,7 +8,7 @@ static gboolean delete_event(GtkWidget *wid, GdkEvent *event, gpointer data){
 	return FALSE;
 }
 
-
+//
 GtkWidget *output;
 gint boardMatrix[9] = {0};
 gint playerTime = 0;
