@@ -1,7 +1,7 @@
 # Tic Tac Toe game in C
 
 # Description
-This is a project to create a tic tac toe game in C using a gui library built using the third party open source library gtk.
+This is a project to create a tic tac toe game in C using the third party open source library gtk.
 
 # Prerequisite for compiling and running the program
  The third party library gtk has to be installed on your system
