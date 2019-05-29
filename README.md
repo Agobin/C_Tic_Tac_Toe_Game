@@ -13,4 +13,4 @@ This is a project to create a tic tac toe game in C using the third party open s
  Note: This step is obviously done in the terminal
 
 # Running the program
-To run the program type ./test in the terminal
+To run the program type, "./test" in the terminal
